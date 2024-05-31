@@ -1,4 +1,4 @@
-package com.naushad.IrctcApp.model.exception;
+package com.shahbaj.IrctcApp.model.exception;
 
 public class PassengerNotFoundException extends RuntimeException{
     public PassengerNotFoundException(String msg){

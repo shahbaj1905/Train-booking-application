@@ -1,7 +1,7 @@
-package com.naushad.IrctcApp.controller.advice;
+package com.shahbaj.IrctcApp.controller.advice;
 
-import com.naushad.IrctcApp.model.exception.InvalidPNRException;
-import com.naushad.IrctcApp.model.exception.SeatNotFoundException;
+import com.shahbaj.IrctcApp.model.exception.InvalidPNRException;
+import com.shahbaj.IrctcApp.model.exception.SeatNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

@@ -1,7 +1,7 @@
-package com.naushad.IrctcApp.repository;
+package com.shahbaj.IrctcApp.repository;
 
 import com.naushad.IrctcApp.model.*;
-import org.springframework.beans.factory.annotation.Value;
+import com.shahbaj.IrctcApp.model.*;
 import org.springframework.stereotype.Repository;
 
 import java.util.*;
@@ -17,7 +17,7 @@ public class IrctcRepository {
     Map<Date,Map<Integer, List<Passenger>>> bookedSeatByDate = new TreeMap<>();
 
     // key = pnr and value = corresponding ticket
-    Map<String,Ticket> ticketMap = new HashMap<>();
+    Map<String, Ticket> ticketMap = new HashMap<>();
 
     private final double vegPrice = 70;
     private final double nonVegPrice = 100;

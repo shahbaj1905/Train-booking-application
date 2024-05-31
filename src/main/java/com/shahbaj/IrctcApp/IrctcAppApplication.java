@@ -1,4 +1,4 @@
-package com.naushad.IrctcApp;
+package com.shahbaj.IrctcApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

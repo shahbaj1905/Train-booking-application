@@ -1,4 +1,4 @@
-package com.naushad.IrctcApp.model;
+package com.shahbaj.IrctcApp.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

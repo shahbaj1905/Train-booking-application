@@ -1,8 +1,9 @@
-package com.naushad.IrctcApp.repository;
+package com.shahbaj.IrctcApp.repository;
 
 import com.naushad.IrctcApp.model.*;
-import com.naushad.IrctcApp.model.exception.BookingFailedException;
-import com.naushad.IrctcApp.model.exception.PassengerNotFoundException;
+import com.shahbaj.IrctcApp.model.exception.BookingFailedException;
+import com.shahbaj.IrctcApp.model.exception.PassengerNotFoundException;
+import com.shahbaj.IrctcApp.model.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.dao.DataAccessException;

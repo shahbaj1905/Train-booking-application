@@ -1,15 +1,15 @@
-package com.naushad.IrctcApp.service.impl;
+package com.shahbaj.IrctcApp.service.impl;
 
-import com.naushad.IrctcApp.model.Passenger;
-import com.naushad.IrctcApp.model.PersonalDetail;
-import com.naushad.IrctcApp.model.Refund;
-import com.naushad.IrctcApp.model.Ticket;
-import com.naushad.IrctcApp.model.exception.ExpiredTicketException;
-import com.naushad.IrctcApp.model.exception.InvalidPNRException;
-import com.naushad.IrctcApp.model.exception.SeatNotFoundException;
-import com.naushad.IrctcApp.repository.IrctcJdbcRepository;
-import com.naushad.IrctcApp.repository.IrctcRepository;
-import com.naushad.IrctcApp.service.IrctcInterface;
+import com.shahbaj.IrctcApp.model.Passenger;
+import com.shahbaj.IrctcApp.model.PersonalDetail;
+import com.shahbaj.IrctcApp.model.Refund;
+import com.shahbaj.IrctcApp.model.Ticket;
+import com.shahbaj.IrctcApp.model.exception.ExpiredTicketException;
+import com.shahbaj.IrctcApp.model.exception.InvalidPNRException;
+import com.shahbaj.IrctcApp.model.exception.SeatNotFoundException;
+import com.shahbaj.IrctcApp.repository.IrctcJdbcRepository;
+import com.shahbaj.IrctcApp.repository.IrctcRepository;
+import com.shahbaj.IrctcApp.service.IrctcInterface;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

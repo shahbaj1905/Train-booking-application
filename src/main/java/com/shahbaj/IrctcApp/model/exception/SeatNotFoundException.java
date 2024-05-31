@@ -1,4 +1,4 @@
-package com.naushad.IrctcApp.model.exception;
+package com.shahbaj.IrctcApp.model.exception;
 
 public class SeatNotFoundException extends RuntimeException{
     public SeatNotFoundException(String msg){
