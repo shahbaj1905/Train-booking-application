@@ -1,6 +1,6 @@
 package com.shahbaj.IrctcApp.repository;
 
-import com.naushad.IrctcApp.model.*;
+import com.shahbaj.IrctcApp.model.*;
 import com.shahbaj.IrctcApp.model.exception.BookingFailedException;
 import com.shahbaj.IrctcApp.model.exception.PassengerNotFoundException;
 import com.shahbaj.IrctcApp.model.*;

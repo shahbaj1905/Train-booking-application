@@ -1,6 +1,6 @@
 package com.shahbaj.IrctcApp.repository;
 
-import com.naushad.IrctcApp.model.*;
+import com.shahbaj.IrctcApp.model.*;
 import com.shahbaj.IrctcApp.model.*;
 import org.springframework.stereotype.Repository;
 
